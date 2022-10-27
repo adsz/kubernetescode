@@ -3,4 +3,4 @@ app = Flask(__name__)
 
 @app.route('/')
 def hello_world():
-    return 'Hello ArgoCD AutoSync enabled v3'
+    return '<h1>Hello ArgoCD AutoSync enabled v4 </h1>'
